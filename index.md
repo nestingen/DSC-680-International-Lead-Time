@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## International Lead Time
 
-You can use the [editor on GitHub](https://github.com/nestingen/International-Lead-Time/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Reducing Lead Time is a tradeoff between costs. There is a cost to holding inventory longer during transit times and there is a cost to using a faster mode of transportation. A portion of Graphic Packaging’s business is produced in the United States and then shipped internationally to be finished. To understand inventory levels and production rate, lead time must be fully understood. Once the lead time data is collected additional projects can be implemented to reduce lead time and costs from the supply chain. The data used in this report is from Graphic Packaging but it has been manipulated to protect any proprietary information. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Presentation on this topic can be found on YouTube [here](https://www.youtube.com/watch?v=qFiyQcwx2GY)
 
-### Markdown
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/54515596/108445035-53c77580-7221-11eb-933f-a41e19272d28.png" width ="700">
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nestingen/International-Lead-Time/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**[Click to Go Back to Homepage](https://nestingen.github.io/)**
