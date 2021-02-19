@@ -5,7 +5,7 @@ Reducing Lead Time is a tradeoff between costs. There is a cost to holding inven
 My Presentation on this topic can be found on YouTube [here](https://www.youtube.com/watch?v=qFiyQcwx2GY)
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/54515596/108445035-53c77580-7221-11eb-933f-a41e19272d28.png" width ="700">
+  <img src="https://user-images.githubusercontent.com/54515596/108445755-90e03780-7222-11eb-9dc7-74079db83a8b.png" width ="700">
 </p>
 
 **[Click to Go Back to Homepage](https://nestingen.github.io/)**
